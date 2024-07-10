@@ -1,4 +1,4 @@
-# WhatsApp Automation Bot
+# WhatsApp Bot
 
 Este projeto é um bot de automação para o WhatsApp Web, desenvolvido em Python, que envia mensagens promocionais e fotos automaticamente para um grupo específico em horários agendados.
 
